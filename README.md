@@ -1,2 +1,2 @@
 # yuning.github.io
-special page for Mingle
+special page for Mingwei
